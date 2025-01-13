@@ -1,1 +1,9 @@
+spring-boot==3.2.5
+spring-boot-starter-security
+spring-boot-starter-web
+spring-boot-starter-tomcat
+spring-boot-starter-test
+jakarta-persistence==3.0.0  # Equivalent version to match Java Persistence API
+spring-data-jpa
+mysql-connector-python==8.0.33
 
