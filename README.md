@@ -89,7 +89,17 @@ You can use **Postman** to test the backend APIs. Import the provided Postman co
 - Allow uploading images for properties.
 - Real-time chat between users.
 
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+## Team Members
+This project was developed as part of our university major project. The team members are:
+
+Ambika Das - [GitHub Profile](https://github.com/ambikad04)
+Riya Das - [GitHub Profile](https://github.com/)
+Shreya Parui - [GitHub Profile](https://github.com/ShreyaParui11)
+
 ## Contact
 
-For questions, contact **Ambika Das**:
+For questions, contact **Ambika**:
 - [GitHub Profile](https://github.com/ambikad04)
