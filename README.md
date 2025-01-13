@@ -83,29 +83,6 @@ Make sure you have:
 
 You can use **Postman** to test the backend APIs. Import the provided Postman collection to test all endpoints.
 
-## Project Structure
-
-```
-Real-Estate-Website/
-│
-├── backend/
-│   ├── models/       # Database models
-│   ├── routes/       # API routes
-│   ├── controllers/  # App logic
-│   ├── config/       # Config files
-│   └── server.js     # Main server file
-│
-├── frontend/
-│   ├── public/       # Static files
-│   ├── src/
-│   │   ├── components/ # Website components
-│   │   ├── pages/      # Website pages
-│   │   └── App.js      # Main React file
-│   └── package.json   # Frontend dependencies
-│
-└── README.md
-```
-
 ## Future Plans
 
 - Add a payment system.
