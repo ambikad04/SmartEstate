@@ -95,9 +95,9 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## Team Members
 This project was developed as part of our university major project. The team members are:
 
-Ambika Das - [GitHub Profile](https://github.com/ambikad04)
-Riya Das - [GitHub Profile](https://github.com/)
-Shreya Parui - [GitHub Profile](https://github.com/ShreyaParui11)
+- Ambika Das - [GitHub Profile](https://github.com/ambikad04)
+- Riya Das - [GitHub Profile](https://github.com/)
+- Shreya Parui - [GitHub Profile](https://github.com/ShreyaParui11)
 
 ## Contact
 
