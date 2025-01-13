@@ -1,0 +1,35 @@
+.h-wrapper{
+    background: var(--black);
+    color: white;
+    background-color: black;
+}
+
+.h-container{
+   justify-content: space-between;
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+   color: var(--secondary);
+}
+
+.h-container>a{
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.h-menu{
+    gap:2rem;
+}
+
+.h-menu>*:hover{
+    cursor: pointer;
+}
+
+.h-menu .active{
+
+    padding-bottom: 2px;
+    border-bottom: 2px solid ;
+}
+
+.h-menu li{
+    cursor: pointer;
+}

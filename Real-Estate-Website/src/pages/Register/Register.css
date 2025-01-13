@@ -1,0 +1,63 @@
+ .auth-form-container {
+    text-align: center;
+    display: flex;
+    min-height: 100vh;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(16, 16, 178);
+  
+  } 
+  
+   .auth-form-container, .register-form{
+    display: flex;
+    flex-direction: column;
+  }
+
+  .register-form{
+    width: 420px;
+    border: 0px solid;
+    border-radius: 10px; 
+    padding: 20px;
+    background: white;
+  }
+  
+  label{
+    text-align: left;
+    padding: 0.2rem 0;
+  }
+  
+  input{
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border-radius: 10px;
+    border-color: rgb(12, 11, 11);
+  }
+  
+  .register-form a{
+    color: rgb(66, 27, 103);
+  }
+  
+  button{
+    border: none;
+    background-color: rgb(16, 16, 178);
+    padding: 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    color: azure;
+  }
+  
+  .link-btn{
+    background: none;
+    color: black;
+  }
+
+  .link-btn a{
+    color: purple;
+  }
+  
+  .auth-form-container .remember{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14.5px;
+  }
+  

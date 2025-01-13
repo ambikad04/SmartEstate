@@ -1,0 +1,50 @@
+.background{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    /* background: rgb(20, 20, 143); */
+    background: url('../property2.jpg');
+
+}
+
+.booking-form{
+    background-color: rgb(237, 232, 232);
+    padding: 20px;
+    border-radius: 15px;
+    max-width: 500px;
+    width: 27%;
+    margin: 0 auto;
+}
+
+.booking-form h1{
+    text-align: center;
+    margin-bottom: 19px;
+}
+
+.booking-form form{
+    display: flex;
+    flex-direction: column;
+}
+
+.booking-form input{
+    padding: 8px;
+    border: 1px solid #b6adad;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.booking-form button{
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #3313a6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.booking-form button:hover{
+    background-color: #230662;
+}

@@ -1,0 +1,12 @@
+.body-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    background: url('./property2.jpg')
+}
+
+.body-text{
+    font-size: 100px;
+    color: azure;
+}

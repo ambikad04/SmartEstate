@@ -1,0 +1,11 @@
+.a-container .image-container{
+   border: 8px solid rgb(232 232 232 / 93%); 
+}
+
+.a-container>div{
+    flex:1;
+}
+
+.a-right{
+    gap: 0.5rem;
+}
